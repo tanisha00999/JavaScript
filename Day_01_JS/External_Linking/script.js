@@ -1,0 +1,1 @@
+console.log("Hello.You are in the Console Tab with External linking!!")
